@@ -1,0 +1,15 @@
+{
+  "name": "apartment-app",
+  "version": "1.0.0",
+  "description": "Welcome to the Simple Apartment Listing App! This repository contains the backend, frontend, and mobile application components of My Application.",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd backend && npm run build",
+    "start:backend": "cd backend && npm start",
+    "start:frontend": "cd frontend && npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ahmeddbahaa",
+  "license": "ISC"
+}
